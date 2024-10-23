@@ -22,4 +22,8 @@ Este projeto é uma ferramenta de linha de comando (CLI) em PHP que permite aos 
     ```
 3. Quando solicitado forneça o usuário do github.
 
-4. URL DO PROJETO [Git Hub User Activies](https://github.com/ryan-junio-oliveira/github-user-activity)
+## Referências
+
+Este projeto segue as diretrizes e estruturas propostas no [roadmap.sh](https://roadmap.sh/projects/github-user-activity).
+
+- Link para o repositório do projeto: [GitHub - GitHub User Activity CLI](https://github.com/ryan-junio-oliveira/github-user-activity)
